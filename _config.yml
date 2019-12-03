@@ -28,7 +28,7 @@ twitter_username:
 github_username:  HwangMinwoo
 
 # Build settings
-theme: minima
+theme: jekyll-whiteglass
 plugins:
   - jekyll-feed
 
