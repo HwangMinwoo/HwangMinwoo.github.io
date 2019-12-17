@@ -1,12 +1,9 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: HwangMinwoo
+title: HwangMinwoo | Worker
+description: 시지프스와 같이 살다.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
-show_hero: true
+  - archive
+  - news
+  - ordinary
+email: secret
+show_hero: false
