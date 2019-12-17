@@ -7,7 +7,7 @@ tags:
   - news
   - ordinary
 email: secret
-show_hero: true
+show_hero: false
 
 
 # Social Media Settings
