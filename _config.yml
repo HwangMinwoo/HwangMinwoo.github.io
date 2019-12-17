@@ -1,15 +1,12 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: HwangMinwoo
+title: HwangMinwoo | Worker
+description: 시지프스
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - archive
+  - news
+  - ordinary
+email: secret
 show_hero: true
 
 
@@ -32,10 +29,10 @@ texts: "#333333"
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 
 # Advanced Settings
